@@ -1,3 +1,6 @@
+![Status](https://img.shields.io/badge/status-experimental-orange)
+![Network](https://img.shields.io/badge/network-polygon-purple)
+
 # Polygon NFT Lab
 
 Experimental NFT deployment and smart contract testing on the Polygon network.
